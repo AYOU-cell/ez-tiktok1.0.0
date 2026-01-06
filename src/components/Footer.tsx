@@ -27,7 +27,7 @@ export function Footer() {
           </a>
           <span className="text-gray-400">|</span>
           <a 
-            href="https://wa.me/85255945272" 
+            href="https://wa.me/12182135478" 
             target="_blank"
             rel="noopener noreferrer"
             className="hover:text-[#1A73E8] transition-colors"
